@@ -1,4 +1,14 @@
 # chronos-whitepaper
+# Translations 
+[English](WHITE_PAPER-en.md)
+
+[Español](WHITE_PAPER-es.md)
+
+[Japanese](WHITE_PAPER-ja.md)
+
+[Chineese](WHITE_PAPER-zh.md)
+
+
 Chronos Protocol White Paper - A new L1 blockchain vision for a faster, fairer Web3
 # Chronos Protocol ⏳ Reclaiming Time in the Blockchain Era
 
