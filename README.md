@@ -14,7 +14,7 @@ Existing blockchains grapple with high fees... Chronos introduces a fundamentall
 🚀 **Our Mission:** To build the most efficient...
 
 ---
-📖 **Read our [White Paper (WHITE_PAPER.md)](WHITE_PAPER.md) for detailed information.**
+📖 **Read our [White Paper (WHITE_PAPER.md)](WHITE_PAPER-en.md) for detailed information.**
 
 Chronos Protocol is an open-source project... (Details coming soon)
 ---
