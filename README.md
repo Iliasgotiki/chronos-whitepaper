@@ -24,6 +24,13 @@ Existing blockchains grapple with high fees... Chronos introduces a fundamentall
 🚀 **Our Mission:** To build the most efficient...
 
 ---
+**🔗 Join the Community:**
+*   💬 **Discord:** https://discord.gg/ppG3mjeH
+*   ✈️ **Telegram:** coming soon
+*   🐦 **Twitter:** @FortnitePl77731
+
+
+
 📖 **Read our [White Paper (WHITE_PAPER.md)](WHITE_PAPER-en.md) for detailed information.**
 
 Chronos Protocol is an open-source project... (Details coming soon)
