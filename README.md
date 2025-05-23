@@ -24,10 +24,10 @@ Existing blockchains grapple with high fees... Chronos introduces a fundamentall
 🚀 **Our Mission:** To build the most efficient...
 
 ---
-**🔗 Join the Community:**
-*   💬 **Discord:** https://discord.gg/ppG3mjeH
-*   ✈️ **Telegram:** coming soon
-*   🐦 **Twitter:** @FortnitePl77731
+**🔗 Join the Community:** "It's still empty though"
+*   💬 **Discord:** [https://discord.gg/ppG3mjeH]
+*   ✈️ **Telegram:** [https://t.me/chronosprotocol]
+*   🐦 **Twitter:** [https://x.com/FortnitePl77731]
 
 
 
